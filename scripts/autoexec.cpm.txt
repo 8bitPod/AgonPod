@@ -1,0 +1,3 @@
+cd Agon-CPM2.2
+load cpm.bin
+run

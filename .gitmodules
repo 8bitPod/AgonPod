@@ -1,0 +1,12 @@
+[submodule "fab-agon-emulator"]
+	path = fab-agon-emulator
+	url = git@github.com:tomm/fab-agon-emulator.git
+[submodule "Agon-CPM2.2"]
+	path = Agon-CPM2.2
+	url = git@github.com:nihirash/Agon-CPM2.2.git
+[submodule "sjasmplus"]
+	path = sjasmplus
+	url = git@github.com:z00m128/sjasmplus.git
+[submodule "agon-ez80asm"]
+	path = agon-ez80asm
+	url = git@github.com:envenomator/agon-ez80asm.git
